@@ -14,7 +14,6 @@ venv/
 
 # Output folders
 scream_analysis_*/
-*.png
 *.jpg
 *.wav
 *.mp3
