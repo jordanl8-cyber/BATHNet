@@ -1,5 +1,7 @@
 # 🚨 Scream Detector — VIA VAB-5000 (MTK MDLA 3.0 NPU)
 
+> **This project is a summer internship project developed under the [VIA Technologies](https://www.viatech.com) internship program, VISVIA Software Team. All rights reserved © VIA Technologies, Inc.**
+
 A real-time scream and distress detection system for public safety monitoring in transit environments (subways, buses). Runs on the **VIA VAB-5000** edge AI board powered by the **MediaTek Genio 700 SoC**, with inference accelerated by the **MDLA 3.0 NPU**.
 
 ![Live Demo](assets/demo_screenshot.png)
