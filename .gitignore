@@ -1,0 +1,32 @@
+# Model files (too large for GitHub)
+*.tflite
+*.dla
+*.npy
+*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Output folders
+scream_analysis_*/
+*.png
+*.jpg
+*.wav
+*.mp3
+*.m4a
+
+# Kaggle credentials
+kaggle.json
+*.kaggle
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

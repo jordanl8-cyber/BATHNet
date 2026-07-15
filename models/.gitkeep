@@ -1,0 +1,10 @@
+# Model files go here but are NOT committed to git (too large)
+# 
+# Required files:
+#   yamnet_embedding.tflite     - YAMNet embedding extractor
+#   scream_detector_v13.tflite  - Custom scream classifier (TFLite)
+#   scream_detector_v13.dla     - NPU-compiled classifier (MDLA 3.0)
+#
+# Compile DLA from TFLite:
+#   sudo ncc-tflite --arch mdla3.0 --relax-fp32 \
+#     -d scream_detector_v13.dla scream_detector_v13.tflite

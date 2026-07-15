@@ -1,0 +1,4 @@
+#!/bin/bash
+# Launch live scream detection web dashboard
+# Open http://jordan-vab.local:5000 in your browser after running this
+python3 /home/jordanlee/live_scream_web.py
