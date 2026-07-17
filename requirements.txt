@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 VIA Technologies, Inc. VISVIA Software Team
+#
+# SPDX-License-Identifier: MIT
+
 tensorflow>=2.14.0
 flask>=2.0.0
 scipy>=1.9.0

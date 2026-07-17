@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 VIA Technologies, Inc. VISVIA Software Team
+#
+# SPDX-License-Identifier: MIT
+
 """
 Download AudioSet clips for scream detection training.
 

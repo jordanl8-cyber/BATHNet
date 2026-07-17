@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 VIA Technologies, Inc. VISVIA Software Team
+
+SPDX-License-Identifier: MIT
+-->
+
 # 🚨 Scream Detector — VIA VAB-5000 (MTK MDLA 3.0 NPU)
 
 > **This project is a summer internship project developed under the [VIA Technologies](https://www.viatech.com) internship program, VISVIA Software Team. All rights reserved © VIA Technologies, Inc.**

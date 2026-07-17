@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 VIA Technologies, Inc. VISVIA Software Team
+#
+# SPDX-License-Identifier: MIT
+
 """
 5-Second Scream Analysis Demo
 Records 5 seconds of audio and generates analysis graphs.

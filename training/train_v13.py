@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 VIA Technologies, Inc. VISVIA Software Team
+#
+# SPDX-License-Identifier: MIT
+
 """
 Train Scream Detector v13
 Standard binary classifier on 96K sample dataset.

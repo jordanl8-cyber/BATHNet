@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 VIA Technologies, Inc. VISVIA Software Team
+#
+# SPDX-License-Identifier: MIT
+
 """
 Live Scream Detection Web Dashboard
 VIA VAB-5000 (MediaTek Genio 700 / MDLA 3.0 NPU)

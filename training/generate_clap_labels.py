@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 VIA Technologies, Inc. VISVIA Software Team
+#
+# SPDX-License-Identifier: MIT
+
 """
 CLAP Soft Label Generation
 Runs the CLAP teacher model (154M params) on all training audio
